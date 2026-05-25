@@ -2,7 +2,13 @@
 The 3D digitization of traditional cultural heritage relies on complex Structure from Motion workflows, presenting significant technical and financial barriers. To address this, we propose an innovative web platform tailored for cultural heritage professionals, supporting zero-threshold 3D Gaussian Splatting reconstruction and interactive visualization. By integrating the SfM-free InstantSplat algorithm, the system bypasses SfM camera pose estimation, enabling one-click digital twin generation directly from unstructured photographs. To overcome the limitations posed by massive datasets from large-scale sites, we integrate an optimized SPX file format that ensures smooth browser-based rendering. The platform also integrates an interactive measurement engine for non-destructive spatial analysis. Evaluations on large-scale sites like the Great Wall and Leshan Giant Buddha demonstrate the system rapidly generates high-fidelity digital twin models. Ultimately, it provides a scalable, low-cost solution for the digital archiving and virtual curation of cultural heritage.
 
 ## System Demonstration
-![System Demonstration Video](assets/final.mp4)
+### Video
+https://github.com/user-attachments/assets/bdfb6f13-d402-4909-b2a3-3d8e37da2fba
+
+### Images
+<img width="1280" height="634" alt="图片1" src="https://github.com/user-attachments/assets/fa81741c-6abb-42e2-b6ec-584a44d5ab9f" />
+
+<img width="1280" height="634" alt="图片2" src="https://github.com/user-attachments/assets/524d3f44-c5e7-4830-a125-7f7d5f0d3d11" />
 
 ## 3D Reconstruction
 ### Installation
